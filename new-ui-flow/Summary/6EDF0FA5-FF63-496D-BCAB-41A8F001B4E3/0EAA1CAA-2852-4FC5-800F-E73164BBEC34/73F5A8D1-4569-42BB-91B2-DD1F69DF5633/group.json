@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "73F5A8D1-4569-42BB-91B2-DD1F69DF5633",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BD491748-B6C6-475C-9639-04BECA730FEF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "66B058F8-C5DC-4F2E-9ED6-0E8C4C64DF30",
+    "height": 16,
+    "width": 16,
+    "x": 15,
+    "y": 305
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DA82C6F2-00EB-4AFD-A35D-44F262FBF272"
+    },
+    {
+      "class": "text",
+      "id": "447F74E3-9C4B-4D9A-9F84-4677B17D41E7"
+    }
+  ],
+  "name": "badges",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "36D848E6-727C-4DAE-A29F-3946B67B189B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

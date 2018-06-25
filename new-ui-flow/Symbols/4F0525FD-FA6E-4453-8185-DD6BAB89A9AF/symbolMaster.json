@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "DC32EF30-B680-4DB6-9E19-8D01EBA878A9",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 411,
+  "do_objectID": "4F0525FD-FA6E-4453-8185-DD6BAB89A9AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "675AA2EB-3DFE-4ECD-9E47-1924C8DDF76B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C9D6AE8B-6CD4-45B7-900B-7F8835833EBF",
+    "height": 16,
+    "width": 16,
+    "x": 2093,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6EABCF65-7EDA-4D89-827B-C3F4068EA6DA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BDD82768-9361-4BCE-B476-6A120B6D22F4"
+    }
+  ],
+  "name": "Form Icon/checkbox/unselect 16",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4056FB5D-49C1-42FE-A275-F8DAFB4AAFE3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BDEEB91D-318E-496F-B109-B87530CF3341",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "07A8F25E-497A-4053-A929-ACC3EA1B8A61",
+    "guides": [
+    ]
+  }
+}

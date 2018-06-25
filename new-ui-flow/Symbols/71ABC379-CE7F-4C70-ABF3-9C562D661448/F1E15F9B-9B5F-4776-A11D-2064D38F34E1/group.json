@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "F1E15F9B-9B5F-4776-A11D-2064D38F34E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "25B6A11C-0BB8-4D8C-AE87-16E9890CE9C3"
+    },
+    {
+      "class": "text",
+      "id": "609FAB8F-CF91-4E82-B2A4-6C72FCA6B8F4"
+    },
+    {
+      "class": "group",
+      "id": "97AB042E-3EC6-4D6D-86B6-A5E510CC3B10"
+    }
+  ],
+  "name": "btn-secondary-fb",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

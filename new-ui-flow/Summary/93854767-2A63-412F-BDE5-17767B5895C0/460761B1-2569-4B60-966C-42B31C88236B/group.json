@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "do_objectID": "460761B1-2569-4B60-966C-42B31C88236B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "19DD2BCE-45EB-4229-8091-00CCF21A7854",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D359548B-FE79-48EC-A57F-0D6B7656FAA8",
+    "height": 395,
+    "width": 240,
+    "x": 270,
+    "y": 697
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "15C4BD3A-897A-4CBE-A411-C1FB28DA77D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E8C8038F-D914-4B33-9A8A-7DF8CAC893D6"
+    },
+    {
+      "class": "text",
+      "id": "A98401E5-0391-4F5E-8A1D-E54255409008"
+    },
+    {
+      "class": "text",
+      "id": "8D61FCF4-22A1-479B-99A6-02DB0ED14C42"
+    },
+    {
+      "class": "text",
+      "id": "FAB754C9-40B6-49DD-A343-36AA9CD360C3"
+    },
+    {
+      "class": "group",
+      "id": "E82FECF4-9162-4558-98C0-F33B59BB31F9"
+    },
+    {
+      "class": "text",
+      "id": "131C81F4-DD7F-4A53-89BA-3727EC45F02C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4AD03585-ACC4-40AE-BA4E-58D9607F9170"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3C9D256D-8E38-4302-A3CF-A1B2549EED94"
+    },
+    {
+      "class": "text",
+      "id": "40CDAB05-6154-4265-8F2F-BA6EBF734DC1"
+    },
+    {
+      "class": "text",
+      "id": "7259E063-4FBA-4B98-9EA2-A6D076B4CEF7"
+    },
+    {
+      "class": "bitmap",
+      "id": "1D0458D6-CB08-4498-ADE6-8946091D848B"
+    }
+  ],
+  "name": "donate-card copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "7C69889A-91CC-4A9C-ADBA-49A66B3800F4",
+      "opacity": 0.5
+    },
+    "do_objectID": "6B1D5331-035A-40B3-8EEB-1BE493ADF2EA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

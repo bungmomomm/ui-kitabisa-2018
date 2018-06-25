@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "26A29380-22F7-4F72-8C8F-A4060C0C7C51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2A934B60-07AD-4F03-B2A4-7B99691921DF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3D73D92D-CF7D-41E6-884D-DA934EE5377B",
+    "height": 40,
+    "width": 330,
+    "x": 15,
+    "y": 568
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / primary / rounded / whatsapp",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "53113955-E194-4BF1-A3F5-1D572C590FDB_stringValue",
+      "value": "Bagikan ke Whatsapp"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4A86E61F-266D-4A2F-98E5-DF496A2C377B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "435B10BA-5837-4C8F-9B99-028D265DAC5A",
+  "verticalSpacing": 0
+}

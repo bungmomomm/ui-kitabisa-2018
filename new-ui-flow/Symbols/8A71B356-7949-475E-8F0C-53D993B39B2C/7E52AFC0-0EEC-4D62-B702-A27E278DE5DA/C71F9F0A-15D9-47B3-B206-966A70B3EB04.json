@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C71F9F0A-15D9-47B3-B206-966A70B3EB04",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "15E7FB92-87B1-457C-8293-6E2758F24A62",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "D979FDDA-4E92-46E9-9A7D-65C6EE554D27",
+    "height": 26.66666666666667,
+    "width": 60,
+    "x": 170,
+    "y": 352
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn-primary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9856BA37-BF7C-4759-81E2-358EC3CF5219",
+      "overrideName": "50804375-63F2-4225-92D4-94389C9695AC_stringValue",
+      "value": "DONASI"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0269BFA9-241E-4CAB-8832-4013ACC012D1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 50,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0.4196078431372549,
+          "green": 0.2,
+          "red": 0.8549019607843137
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "CB9D7974-A4A6-4955-9B26-71B5C24EC9E7",
+  "verticalSpacing": 0
+}

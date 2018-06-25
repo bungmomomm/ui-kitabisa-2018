@@ -1,0 +1,121 @@
+{
+  "_class": "group",
+  "do_objectID": "6F2406F7-9432-4748-9B5B-62C3955CE890",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CB73C13E-FF0C-49D7-9D19-9609D2199432",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "61BFBB17-5937-4A9E-9B5B-3374B3AF1BEC",
+    "height": 570,
+    "width": 330,
+    "x": 15,
+    "y": 56
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AB24FF77-76ED-4BB5-88B6-8C6C1DB5C347"
+    },
+    {
+      "class": "group",
+      "id": "57ABD315-0AC0-42CD-A464-13F57C201F68"
+    },
+    {
+      "class": "text",
+      "id": "42BE7A98-4745-4FDA-9AA9-5612BF7A9297"
+    },
+    {
+      "class": "text",
+      "id": "6DF2D007-020E-4A5B-86C7-A09C572FF5CA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ADFCED89-78CB-44F3-A208-6BA949CC3DB5"
+    },
+    {
+      "class": "text",
+      "id": "F1535B30-DB6A-4B8D-8A6A-FB9246D72D94"
+    },
+    {
+      "class": "text",
+      "id": "614F84F2-ACD9-4513-ABF3-0A2692CF7B18"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2E980EE1-6D9A-4DBD-9718-2360BCF0C9A5"
+    },
+    {
+      "class": "text",
+      "id": "908BE49D-F790-4EF4-9387-7EC1163538F7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "961F7510-7005-4F24-98D7-8886E2D0EE12"
+    },
+    {
+      "class": "text",
+      "id": "BC36052F-F59B-47E4-A1C3-AB5BFA405631"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "264852CA-EFF6-48D3-BF26-E75755BC1E5E"
+    },
+    {
+      "class": "text",
+      "id": "F7792511-9FC5-4982-8F36-CD6DBC7BEA16"
+    },
+    {
+      "class": "text",
+      "id": "2C7C957F-6D65-4F65-8F33-DB6F2B507BC9"
+    },
+    {
+      "class": "text",
+      "id": "FD81193B-B292-46C3-930B-41F0057A2231"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "08DC68C0-A68F-4D7B-99F2-47BFDB715D82"
+    },
+    {
+      "class": "group",
+      "id": "8DB879AF-A470-4D54-83EA-C2EF7E9A5B50"
+    }
+  ],
+  "name": "fastpay",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F1378888-E030-4872-8D0D-CFA170D2CF69",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CFF5807D-7B5A-48B9-9B37-F59BC2AE8F4C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "22A19646-279A-4574-B1F8-9EC5413B51C6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5D20E32F-4DD0-4158-8B6A-F97C702D65F3",
+    "height": 60,
+    "width": 63,
+    "x": 15,
+    "y": 563
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "avatar-campaigner",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CC40AF2F-2C52-4545-9DB7-8F0FA80190CE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "143B0F6E-1520-48F8-91A0-F42FB1632632",
+  "verticalSpacing": 0
+}
